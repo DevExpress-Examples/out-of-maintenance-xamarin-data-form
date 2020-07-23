@@ -5,4 +5,4 @@ Files to look at:
 - [MainPage.xaml](CS/DataForm/MainPage.xaml)
 - [EmployeeInfo.cs](CS/DataForm/EmployeeInfo.cs)
 
-This is the application created in the Xamarin.Forms Data Form video. This video shows how to use the DevExpress DataFormView component to create an edit form for a data object (EmployeeInfo).
+This example shows how to use the DevExpress [DataFormView](https://docs.devexpress.com/MobileControls/401732/xamarin-forms/data-form/index) component to create an edit form for a data object (EmployeeInfo).
